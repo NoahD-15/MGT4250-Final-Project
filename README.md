@@ -1,2 +1,2 @@
 # MGT4250-Final-Project
-This if for the final group project for data vizualization
+This is for the class project of MGT 4250 Fall 2023 at Elon University
