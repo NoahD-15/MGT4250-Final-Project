@@ -8,7 +8,7 @@ This is for the class project of MGT 4250 Fall 2023 at Elon University
 ### Question 
 How has the attendance at NFL games shifted in the past 19 years?
 ### Importance
-Football has undergone substantial changes in this time, including new rules, player dynamics, and strategic approaches. Our goal is to assess fans' perceptions of the current state of football by examining stadium attendance trends in NFL games over the last 19 years based on city. We anticipate that teams with consistent or improved performance during this period will likely show steady or growing attendance, while those experiencing declines in performance may see a decrease in attendance as well as see which if teams moved due to a decline in attendance. Our dataset comprises attendance records for both home and away NFL games spanning the past 19 years for each team including if the team moved cities in this time period.
+This question is important because Football has undergone substantial changes in this time, including new rules, player dynamics, and strategic approaches. Our goal is to assess fans' perceptions of the current state of football by examining stadium attendance trends in NFL games over the last 19 years based on city. We anticipate that teams with consistent or improved performance during this period will likely show steady or growing attendance, while those experiencing declines in performance may see a decrease in attendance as well as see which if teams moved due to a decline in attendance. Our dataset comprises attendance records for both home and away NFL games spanning the past 19 years for each team including if the team moved cities in this time period.
 
 ## Part 2
 
