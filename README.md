@@ -11,6 +11,11 @@ How has the attendance at NFL games shifted in the past 19 years?
 This question is important because Football has undergone substantial changes in this time, including new rules, player dynamics, and strategic approaches. Our goal is to assess fans' perceptions of the current state of football by examining stadium attendance trends in NFL games over the last 19 years based on city. We anticipate that teams with consistent or improved performance during this period will likely show steady or growing attendance, while those experiencing declines in performance may see a decrease in attendance as well as see which if teams moved due to a decline in attendance. Our dataset comprises attendance records for both home and away NFL games spanning the past 19 years for each team including if the team moved cities in this time period.
 
 ## Part 2
+### How To Download
+Our data can be accessed by navigating to Kaggle.com and searching for NFL attendance. Next, click on the entry labeled, “NFL Stadium Attendance Dataset” by Sujay Kapadnis. Download the csv file from this page. 
+
+### Data Types and Descriptions
+The columns of the dataset are as follows. Firstly, there is a column named, “team”, under which a team’s city or location is listed as a string. The next column is called, “team_name”. This contains the name of the team as a string. Next there is a column named, “year”, which contains the year of the season as an integer. After this is the column, “total”. This contains the total attendance across 17 weeks of play listed as a double. After this comes the “home” and “away” columns which list the attendance for home and away games respectively represented as a double. Next, there is the, “week” column. This contains the week of the game in question, represented as a string. There is then “weekly_attendance” column which shows the weekly attendance number as a double. Lastly, we have added two columns, one for longitude and another for latitude. These were added for the purpose of creating a map visualization of the data at the specific points where each team plays their home games.
 
 ## Part 3 
 ### Vizualizations
