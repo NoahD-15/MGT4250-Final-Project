@@ -25,7 +25,13 @@ The columns of the dataset are as follows. Firstly, there is a column named, “
 
 ## Part 4 
 
+[Link To Artical Used](https://www.sportsbusinessjournal.com/Journal/Issues/2023/01/16/Upfront/nfl-attendance.aspx)
 ### Summerization 
+
+In 2022, NFL attendance soared by 3.25%, averaging 69,442 fans per game—the second-highest figure in nearly two decades. This surge marked a stark reversal from the attendance decline seen in the late 2010s, attributed partly to the lifting of pandemic restrictions across all markets and reduced COVID-19 concerns. Notably, 24 teams saw increases while only six experienced declines in attendance. Factors like consumer behavior and economic conditions influenced ticket sales, with most tickets sold post-pandemic threat but before serious inflation hit. The NFL received credit for effectively engaging both older and younger fan bases, contributing to this attendance growth.
+
+However, the reported box score attendance figures, including all distributed tickets, have limitations and may not accurately reflect actual turnstile activity. Changes in counting methodologies by teams, such as including unused distributed tickets, influenced reported numbers. Despite these considerations, the 2022 season's average attendance almost matched the 2016 high mark, signaling positive growth post-pandemic. The inauguration of new stadiums in Los Angeles and Las Vegas played a pivotal role in boosting attendance compared to the 2010s when teams played in older venues.
+
 
 ### Generative AI
 
