@@ -1,9 +1,10 @@
 # MGT4250-Final-Project
 ## Part 1
 This is for the class project of MGT 4250 Fall 2023 at Elon University
-[Visuals](https://public.tableau.com/shared/FCQHF6FCT?:display_count=n&:origin=viz_share_link)
 
-
+[Visual 1 Map](https://public.tableau.com/shared/FCQHF6FCT?:display_count=n&:origin=viz_share_link)
+[Visual 2 Bar Graph](https://public.tableau.com/shared/QPP99P9WG?:display_count=n&:origin=viz_share_link)
+[Visual 3 Line Graph](https://public.tableau.com/shared/6Y8XB8BPT?:display_count=n&:origin=viz_share_link)
 ### Question 
 How has the attendance at NFL games shifted in the past 19 years?
 ### Importance
