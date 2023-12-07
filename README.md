@@ -1,4 +1,6 @@
 # MGT4250-Final-Project
+[LinK to this Repo](https://github.com/NoahD-15/MGT4250-Final-Project.git)
+
 ## Part 1
 This is for the class project of MGT 4250 Fall 2023 at Elon University
 
