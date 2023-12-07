@@ -35,9 +35,9 @@ However, the reported box score attendance figures, including all distributed ti
 
 ### Generative AI
 
-Question 1. was there a overall large increast in attendance between the two years?
+Question 1. was there a overall large increast in attendance?
 
-Response 1. Yes, there was a notable increase in NFL attendance between the two years. In 2022, there was a 3.25% surge in average attendance compared to the previous year, marking a significant rise in fan turnout across the league. This increase nearly countered the declining attendance trend that had been observed in the late 2010s, showcasing a substantial upturn in overall attendance levels for NFL games.
+Response 1. Yes, there was a notable increase in NFL attendance. In 2022, there was a 3.25% surge in average attendance compared to the previous year, marking a significant rise in fan turnout across the league. This increase nearly countered the declining attendance trend that had been observed in the late 2010s, showcasing a substantial upturn in overall attendance levels for NFL games.
 
 Question 2. what was the reason for this increase?
 
